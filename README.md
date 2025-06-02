@@ -102,10 +102,10 @@ This dashboard evaluates **Zepto's** sales data across product categories, outle
 
 ## 👤 Author
 
-Abhishek Sethi   
-Gmail:- abhisheksethi297376@gmail.com   
-Linkdin :- www.linkedin.com/in/asethi297  
-Github: https://github.com/297Abhishek
+**Abhishek Sethi**  
+**Gmail:- **abhisheksethi297376@gmail.com   
+**Linkdin :- **www.linkedin.com/in/asethi297  
+**Github:- **https://github.com/297Abhishek
 
 ---
 
