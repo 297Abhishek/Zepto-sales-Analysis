@@ -87,8 +87,8 @@ This dashboard evaluates **Zepto's** sales data across product categories, outle
 
 ## 📁 Project Files
 
-- [`Zepto Sales Analysis.pbix`](#) – Power BI dashboard  
-- [`Report.pdf`](#) – Insight summary document  
+- [`Zepto Sales Analysis.pbix`](https://github.com/297Abhishek/Zepto-sales-Analysis/blob/main/Zepto%20Sales%20Analysis.pbix) – Power BI dashboard  
+- [`Report.pdf`](https://github.com/297Abhishek/Zepto-sales-Analysis/blob/main/Report.pdf) – Insight summary document  
 
 ---
 
